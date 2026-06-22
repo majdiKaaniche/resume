@@ -2,8 +2,9 @@
 ### Technical Manager | Certified Project Manager
 
 📧 [majdi.kaaniche@gmail.com](mailto:majdi.kaaniche@gmail.com) | 🔗 [linkedin.com/in/majdi-kaaniche](https://linkedin.com/in/majdi-kaaniche)  
-📞 +216 22 610 196 — Tunis, Tunisia  
-📞 +974 70 60 45 01 — Doha, Qatar  
+📞 +216 22 610 196 — Tunis, Tunisia
+📞 +974 70 60 45 01 — Doha, Qatar
+📄 [Download Resume (PDF)](https://github.com/majdiKaaniche/resume/blob/main/Majdi_Kaaniche_resume.pdf)
 
 📄 [Download Resume (PDF)](https://github.com/majdiKaaniche/resume/blob/main/Majdi_Kaaniche_resume.pdf)
 ---
