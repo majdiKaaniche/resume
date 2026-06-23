@@ -1,5 +1,5 @@
 # Majdi Kaaniche
-### Technical Manager | Certified Project Manager
+### Technology, Product & Operations Leadership | Certified Project Manager
 
 📧 [majdi.kaaniche@gmail.com](mailto:majdi.kaaniche@gmail.com) | 🔗 [linkedin.com/in/majdi-kaaniche](https://linkedin.com/in/majdi-kaaniche)  
 📞 +216 22 610 196 — Tunis, Tunisia
@@ -13,13 +13,11 @@
 
 > *Passionate about driving product growth that users genuinely love, Directing cutting-edge engineering with strategic business alignment and compliance-driven execution.*
 
-Senior technology and product leader with 15+ years of experience delivering scalable digital solutions across software engineering, cloud infrastructure, cybersecurity, DevOps, data engineering, and AI-driven systems.
+Senior technology, product, and operations executive with 15+ years building and scaling digital products — from founding my first web company at 22 to leading a 70-person cross-functional organization through a full product-market fit cycle at the first Arabic social media platform, delivering 20x user traffic growth and an App Store top 10 ranking in the Levant.
 
-Combining deep technical expertise with executive leadership and entrepreneurial experience, I specialize in building high-performing teams and user-centric products through Design Thinking, UX excellence, and strong business alignment.
+I have operated in the messiest parts of product development: restructuring strategy when early traction signals failed, unifying siloed teams to accelerate iteration speed, and shifting audience and feature direction based on real user feedback — not assumptions. My career is built on finding PMF through disciplined experimentation, not on executing predefined roadmaps.
 
-Throughout my career, I have worked with clients across Europe, the Levant, and the GCC region, gaining broad exposure to diverse business environments, regulatory landscapes, and digital transformation challenges. Most recently, my leadership role within an AI startup provided deep hands-on experience in managing AI-driven products, leading multidisciplinary teams, and aligning AI innovation with real business and operational needs.
-
-Founder and multi-disciplinary technology executive, my approach blends technology, business strategy, UX thinking, and growth-focused innovation to create scalable solutions that deliver measurable business impact and exceptional customer experiences.
+Across Europe, the Levant, and the GCC, I have led AI-driven products, compliance-heavy delivery programs, and startup operating models in environments where the rules were still being written — including regulated engagements with Qatar Development Bank, National Archives of Qatar, and the Libraries Commission.
 
 ---
 
